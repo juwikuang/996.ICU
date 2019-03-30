@@ -47,3 +47,4 @@
 |北京|[北京云族佳科技有限公司](https://www.clouderwork.com/)|2019年3月|明目张胆的在招聘网散步996招聘信息|[智联招聘](https://jobs.zhaopin.com/CC599223521J00125821109.htm)|
 |苏州|[苏州科技城]()|2019年3月|明目张胆的在招聘网散步996招聘信息|[智联招聘(请看html源代码)](https://jobs.zhaopin.com/CC549324722J00346803701.htm)|
 |北京|[中软国际科技服务有限公司](www.chinasofti.com/)|2019年3月|明目张胆的在招聘网散步996招聘信息|[智联招聘](https://jobs.zhaopin.com/CC508620126J00303154805.htm)|
+|北京|[北京柯莱特科技有限公司](http://www.camelotchina.com/)|2019年3月|明目张胆的在招聘网散步996招聘信息|[智联招聘](https://jobs.zhaopin.com/CC120179637J00117070515.htm)|
