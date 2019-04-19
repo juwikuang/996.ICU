@@ -61,6 +61,7 @@ Community powers
 ---
 
  - [955.WLB](https://github.com/formulahendry/955.WLB) is a repo that maintains a whitelist of 955 work–life balanced companies.
+ - [955Jobs.com](https://955jobs.com/) is a whitelist of 955 work-life balanced companies. This is directly generated from 51jobs.com
  - [996.LIST](https://github.com/fengT-T/996_list) is a repo of a rank list of 996 companies and 955 companies.
  - [996.law](https://github.com/CPdogson/996.law) This is a manual for workers who want to conduct labor arbitration and litigation on their own.
  - [996.YAOCL](https://github.com/boycott996/yaocl) Yet Another Overtime Corps List, current another anonymous voting list.
